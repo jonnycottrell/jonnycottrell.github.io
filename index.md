@@ -85,9 +85,9 @@
 
 <p>Garrett, Don. <a href="https://www.taylorfrancis.com/books/9780203118351"><i>Hume</i></a>. (New York: Routledge, 2015)</p>
 
-<p>Hume, David. <a href=https://www-oxfordscholarlyeditions-com.ezproxy.is.ed.ac.uk/view/10.1093/actrade/9780199596331.book.1/actrade-9780199596331-book-1><i>A Treatise of Human Nature</i></a>. Two vols. Edited by David Fate Norton and Mary J. Norton. (Oxford: Clarendon Press, 2007)</p>
+<p>Hume, David. <a href="https://www-oxfordscholarlyeditions-com.ezproxy.is.ed.ac.uk/view/10.1093/actrade/9780199596331.book.1/actrade-9780199596331-book-1"><i>A Treatise of Human Nature</i></a>. Two vols. Edited by David Fate Norton and Mary J. Norton. (Oxford: Clarendon Press, 2007)</p>
 
-<p>Hume, David. An Abstract of a Book Lately Published. In David Hume, <a href=https://www-oxfordscholarlyeditions-com.ezproxy.is.ed.ac.uk/view/10.1093/actrade/9780199596331.book.1/actrade-9780199596331-book-1><i>A Treatise of Human Nature, Vol, 1: Texts</i></a>. Edited by David Fate Norton and Mary J. Norton. (Oxford: Clarendon Press, 2007)</p>
+<p>Hume, David. An Abstract of a Book Lately Published. In David Hume, <a href="https://www-oxfordscholarlyeditions-com.ezproxy.is.ed.ac.uk/view/10.1093/actrade/9780199596331.book.1/actrade-9780199596331-book-1"><i>A Treatise of Human Nature, Vol, 1: Texts</i></a>. Edited by David Fate Norton and Mary J. Norton. (Oxford: Clarendon Press, 2007)</p>
 
 
 
