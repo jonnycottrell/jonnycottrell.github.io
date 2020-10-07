@@ -18,14 +18,16 @@
 
 <p id="abstractback">[E 2.9] <i><span title="Here, Hume says that the Copy Principle (and the Composition Principle) can be used to clarify obscure ideas. In E 7, Hume uses the Copy Principle and the Composition Principle to clarify the (initially) obscure idea of a “necessary connexion” between a cause and its effect.">Here, therefore, is a proposition, which not only seems, in itself, simple and intelligible; but, if a proper use were made of it, might render every dispute equally intelligible, and banish all that jargon, which has so long taken possession of metaphysical reasonings, and drawn disgrace upon them.</span></i> All ideas, especially <a href="#abstract">abstract ones</a>, are naturally faint and obscure: The mind has but a slender hold of them: they are apt to be confounded with other resembling ideas; and when we have often employed any term, though without a distinct meaning, we are apt to imagine it has a determinate idea, annexed to it. On the contrary, all impressions, that is, all sensations, either outward or inward, are strong and vivid: The limits between them are more exactly determined: Nor is it easy to fall into any error or mistake with regard to them. When we entertain, therefore, any suspicion, that a philosophical term is employed without any meaning or idea (as is but too frequent), we need but enquire, from what impression is that supposed idea derived? And if it be impossible to assign any, this will serve to confirm our suspicion. By bringing ideas into so clear a light, we may reasonably hope to remove all dispute, which may arise, concerning their nature and reality. <a href="#note">[1]</a></p>
 
-<br><h2>Hume’s Endnotes</h2>
+<br>
+<h2>Hume’s Endnotes</h2>
 
 <p id="note">E 2.9n1</p>
 <p>[E 2.9n1.1] It is probable that no more was meant by those, who denied <a href="#innate">innate ideas</a>, than that all ideas were copies of our impressions; though it must be confessed, that the terms, which they employed, were not chosen with such caution, nor so exactly defined, as to prevent all mistakes about their doctrine. For what is meant by innate? If innate be equivalent to natural, then all the perceptions and ideas of the mind must be allowed to be innate or natural, in whatever sense we take the latter word, whether in opposition to what is uncommon, artificial, or miraculous. If by innate be meant, contemporary to our birth, the dispute seems to be frivolous; nor is it worth while to enquire at what time thinking begins, whether before, at, or after our birth. Again, the word idea, seems to be commonly taken in a very loose sense, by Locke and others: as standing for any of our perceptions, our sensations and passions, as well as thoughts. Now in this sense, I should desire to know, what can be meant by asserting, that self-love, or resentment of injuries, or the passion between the sexes is not innate?</p>
 <p>[E2.9n1.2] But admitting these terms, impressions and ideas, in the sense above explained, and understanding by innate, what is original or copied from no precedent perception, then may we assert, that all our impressions are innate and our ideas not innate.</p>
 <p>[E 2.9n1.3] To be ingenuous, I must own it to be my opinion, that Mr. Locke was betrayed into this question by the schoolmen, who, making use of undefined terms, draw out their disputes to a tedious length, without ever touching the point in question. A like ambiguity and circumlocution seem to run through all that great philosopher's reasonings on this as well as most other subjects. <a href="#abstractback">BACK</a></p>
 
-<br><h2>Glossary of Key Terms</h2>
+<br>
+<h2>Glossary of Key Terms</h2>
 
 <p><h3>Abstract Idea</h3></p>
 <p>See Idea, Abstract.</p>
